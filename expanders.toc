@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Overview of the Talk}{1}{section.1}
+\contentsline {section}{\numberline {2}Basic Definitions}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Graph Theory}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Probability}{2}{subsection.2.2}
+\contentsline {section}{\numberline {3}Definitions of Expanders}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Vertex Expansion}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Edge Expansion}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Spectral Expansion}{5}{subsection.3.3}
+\contentsline {section}{\numberline {4}Equivalence of Definitions}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}Collision Probability}{6}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Spectral Expansion $\DOTSB \tmspace +\thickmuskip {.2777em}\DOTSB \Relbar \joinrel \Rightarrow \tmspace +\thickmuskip {.2777em}$ Vertex Expansion}{7}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Vertex Expansion $\DOTSB \tmspace +\thickmuskip {.2777em}\DOTSB \Relbar \joinrel \Rightarrow \tmspace +\thickmuskip {.2777em}$ Spectral Expansion}{8}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Optimizing the Expansion Constants}{8}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Spectral Expansion $\equiv $ Edge Expansion}{8}{subsection.4.5}
+\contentsline {section}{\numberline {5}The Expander Mixing Lemma}{9}{section.5}
+\contentsline {section}{\numberline {6}Constructions of Expanders}{11}{section.6}
+\contentsline {subsection}{\numberline {6.1}Ramanujan Graphs}{12}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Iterative Graph Operations}{12}{subsection.6.2}
+\contentsline {section}{\numberline {7}Some Applications of Expanders}{14}{section.7}
+\contentsline {subsection}{\numberline {7.1}Error Reduction in Randomized Algorithms}{14}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Connection to Randomness Extractors}{15}{subsection.7.2}
+\contentsline {section}{\numberline {8}An Open Problem}{16}{section.8}

@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{Overview of the Talk}{}% 1
+\BOOKMARK [1][-]{section.2}{Basic Definitions}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Graph Theory}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Probability}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Definitions of Expanders}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Vertex Expansion}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Edge Expansion}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Spectral Expansion}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Equivalence of Definitions}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Collision Probability}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Spectral Expansion -3mu Vertex Expansion}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{Vertex Expansion -3mu Spectral Expansion}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.4}{Optimizing the Expansion Constants}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.5}{Spectral Expansion \040Edge Expansion}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{The Expander Mixing Lemma}{}% 15
+\BOOKMARK [1][-]{section.6}{Constructions of Expanders}{}% 16
+\BOOKMARK [2][-]{subsection.6.1}{Ramanujan Graphs}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.2}{Iterative Graph Operations}{section.6}% 18
+\BOOKMARK [1][-]{section.7}{Some Applications of Expanders}{}% 19
+\BOOKMARK [2][-]{subsection.7.1}{Error Reduction in Randomized Algorithms}{section.7}% 20
+\BOOKMARK [2][-]{subsection.7.2}{Connection to Randomness Extractors}{section.7}% 21
+\BOOKMARK [1][-]{section.8}{An Open Problem}{}% 22
